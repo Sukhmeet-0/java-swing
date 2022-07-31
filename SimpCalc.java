@@ -104,5 +104,6 @@ class Framee extends JFrame implements ActionListener{
 public class SimpCalc{
     public static void main(String[] args) {
         Framee f=new Framee();
+        f.setVisible(true);
     }
 }
