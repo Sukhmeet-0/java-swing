@@ -56,7 +56,7 @@ class Framee extends JFrame implements ActionListener{
         c.add(div);
 
         result = new JLabel("Result : ");
-        result.setBounds(20,180,100,20);
+        result.setBounds(20,180,500,20);
         result.setForeground(Color.white);
         c.add(result);
         
