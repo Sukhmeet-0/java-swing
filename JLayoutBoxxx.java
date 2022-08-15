@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
-public class JLayoutBoxx extends JFrame {
-    JLayoutBoxx(){
+public class JLayoutBoxxx extends JFrame {
+    JLayoutBoxxx(){
         setSize(400,300);
         setLocation(400,300);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -12,6 +12,6 @@ public class JLayoutBoxx extends JFrame {
         setVisible(true);
     }
     public static void main(String[] args) {
-        JLayoutBoxx l=new JLayoutBoxx();
+        JLayoutBoxxx l=new JLayoutBoxxx();
     }
 }
